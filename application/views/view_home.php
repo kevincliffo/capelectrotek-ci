@@ -547,7 +547,7 @@
                             <div class="contact-address">
                                 <i class="ion-ios-location-outline"></i>
                                 <h3>Address</h3>
-                                <address>A108 Adam Street, NY 535022, USA</address>
+                                <address>P.O. Box 8115 00200, Nairobi, Kenya</address>
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -561,7 +561,7 @@
                             <div class="contact-email">
                                 <i class="ion-ios-email-outline"></i>
                                 <h3>Email</h3>
-                                <p><a href="mailto:info@example.com">info@example.com</a></p>
+                                <p><a href="mailto:info@example.com">info@capelectrotek.co.ke</a></p>
                             </div>
                         </div>
                     </div>
