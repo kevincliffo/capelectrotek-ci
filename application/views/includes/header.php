@@ -45,7 +45,7 @@
                         <!-- <h1 class="logo mr-auto"><a href="index.html">Capelectrotek</a></h1> -->
                         <!-- Uncomment below if you prefer to use an image logo -->
                         <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/header-2.png" alt="" class="img-fluid"></a> -->
-                        <?php echo anchor('', img(array('src'=>"assets/img/header-2.png",'alt'=>"logo",'class'=>"img-fluid")), array('class'=>"logo mr-auto"));?>
+                        <?php echo anchor('', img(array('src'=>"assets/img/logo.png",'alt'=>"logo",'class'=>"img-fluid")), array('class'=>"logo mr-auto"));?>
                         <nav class="nav-menu d-none d-lg-block">
                             <ul>
                                 <li class="active"><?php echo anchor('', 'Home');?></li>
