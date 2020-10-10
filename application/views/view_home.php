@@ -4,7 +4,7 @@
                 <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
                     <ol class="carousel-indicators"></ol>
                     <div class="carousel-inner" role="listbox">
-                        <div class="carousel-item active" style="background-image: url(assets/img/intro-carousel/1.jpg)">
+                        <div class="carousel-item active" style="background-image: url(assets/img/intro-carousel/peter-1.jpg)">
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
@@ -13,7 +13,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/2.jpg)">
+                        <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/peter-2.jpeg)">
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
@@ -22,7 +22,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/3.jpg)">
+                        <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/peter-3.jpeg)">
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
@@ -31,7 +31,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/4.jpg)">
+                        <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/peter-4.jpeg)">
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">Nam libero tempore</h2>
@@ -40,7 +40,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/5.jpg)">
+                        <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/peter-5.jpeg)">
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">Magnam aliquam quaerat</h2>
@@ -68,17 +68,17 @@
                     <div class="row">
                         <div class="col-lg-4 box">
                             <i class="ion-ios-bookmarks-outline"></i>
-                            <h4 class="title"><a href="">Lorem Ipsum Delino</a></h4>
+                            <h4 class="title"><a href="">Training</a></h4>
                             <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                         </div>
                         <div class="col-lg-4 box box-bg">
                             <i class="ion-ios-stopwatch-outline"></i>
-                            <h4 class="title"><a href="">Dolor Sitema</a></h4>
+                            <h4 class="title"><a href="">Technical</a></h4>
                             <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
                         </div>
                         <div class="col-lg-4 box">
                             <i class="ion-ios-heart-outline"></i>
-                            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+                            <h4 class="title"><a href="">Consulting</a></h4>
                             <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
                         </div>
                     </div>
