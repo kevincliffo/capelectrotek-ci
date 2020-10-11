@@ -5,7 +5,9 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-6 footer-info">
                             <?php echo anchor('', img(array('src'=>"assets/img/logo.png",'alt'=>"logo",'class'=>"img-fluid")), array('class'=>"logo mr-auto"));?>
-                            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+                            <p>
+                                Cap-electrotek Solutions Ltd was founded in 2009 and incorporated in 2015. It is able to deliver design, Installation, Training and Commissioning of Electrical and Electrical systems for Process control, Home systems, Fueling systems and ICT systems.
+                            </p>
                         </div>
                         <div class="col-lg-3 col-md-6 footer-links">
                             <h4>Useful Links</h4>
@@ -21,11 +23,12 @@
                             <h4>Contact Us</h4>
                             <p>
                                 P.O. BOX 8115 <br>
-                                Nairobi, 00200<br>
-                                Kenya <br>
+                                Nairobi, 00200 Kenya <br>
                                 <strong>Phone:</strong> +1 5589 55488 55<br>
                                 <strong>Email:</strong> info@capelectrotek.co.ke<br>
-                                <strong>Email:</strong> info@capelectrotek.co.ke<br>
+                                training@capelectrotek.co.ke<br>
+                                technical@capelectrotek.co.ke<br>
+                                consulting@capelectrotek.co.ke<br>
                             </p>
                             <div class="social-links">
                                 <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
@@ -47,7 +50,7 @@
             </div>
             <div class="container">
                 <div class="copyright">
-                    &copy; Copyright <strong>BizPage</strong>. All Rights Reserved
+                    <?php echo date('Y');?> &copy; Copyright <strong>Capelectrotek</strong>. All Rights Reserved
                 </div>
                 <div class="credits">
                     <!--
