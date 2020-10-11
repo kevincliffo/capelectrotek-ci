@@ -69,17 +69,17 @@
                         <div class="col-lg-4 box">
                             <i class="ion-ios-bookmarks-outline"></i>
                             <h4 class="title"><a href="">Training</a></h4>
-                            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                            <p class="description">We believe that Technical know-how of operations, maintenance and basic trouble shooting will help our clients stay on top. That is why our Technical training and Regular knowledge and sharing forums will help us and our clients to immensely get the best of our investments.</p>
                         </div>
                         <div class="col-lg-4 box box-bg">
                             <i class="ion-ios-stopwatch-outline"></i>
                             <h4 class="title"><a href="">Technical</a></h4>
-                            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                            <p class="description">We Offer training in various technical courses to both individuals and institutions. Our areas of specialization include: PLC and Auto CAD. For effective output performance. Our clients emphasize on practical applications of the skills acquired. This are given for time to practice on various training kits available and in our procession to further sharpen them.</p>
                         </div>
                         <div class="col-lg-4 box">
                             <i class="ion-ios-heart-outline"></i>
                             <h4 class="title"><a href="">Consulting</a></h4>
-                            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                            <p class="description">Deliver unique Capacity Building Consultancy and Advisory Services hence supporting a more efficient technical operational environment.</p>
                         </div>
                     </div>
                 </div>
@@ -89,7 +89,10 @@
                 <div class="container" data-aos="fade-up">
                     <header class="section-header">
                         <h3>About Us</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <p>Cap-electrotek Solutions Ltd was founded in 2009 and incorporated in 2015. It is able to deliver design, Installation, Training and Commissioning of Electrical and Electrical systems for Process control, Home systems, Fueling systems and ICT systems.</br>
+                        The company supply, install and maintain dispenser Pumps, flow meters, Electrical component systems, ICT related systems and components as well as Technical training courses such as PLC, SCADA and Auto CAD.</br>
+                        As a solutions company Cap-electrotek designs, Sources for parts and Equipment, Installs and Commissions process control systems, Consumer electrical installation and Dispensing equipment.</br>
+                        We have vast experience and expertise in Technical training, Automation, Electrical power installation and dispensers & Flow meter installations.</p>
                     </header>
                     <div class="row about-cols">
                         <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
@@ -100,7 +103,8 @@
                                 </div>
                                 <h2 class="title"><a href="#">Our Mission</a></h2>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                    The company mission is to provide reliable technical designs and workmanship that deliver intended solutions to all our clients.
+                                    Our view is to effect quality at lower cost but reliable enough to our customers satisfaction thus enabling them realize efficient use of our systems and solutions.
                                 </p>
                             </div>
                         </div>
@@ -112,7 +116,7 @@
                                 </div>
                                 <h2 class="title"><a href="#">Our Plan</a></h2>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                                    Ensuring that all our clients and prospects are attended to with the uttermost effeiciency of service within the shortest time possible
                                 </p>
                             </div>
                         </div>
@@ -124,7 +128,7 @@
                                 </div>
                                 <h2 class="title"><a href="#">Our Vision</a></h2>
                                 <p>
-                                Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+                                    To be the most Reliable engineering solutions Company in Kenya and the larger East African Region.
                                 </p>
                             </div>
                         </div>
@@ -236,9 +240,9 @@
                             <p>Hard Workers</p>
                         </div>
                     </div>
-                    <div class="facts-img">
+                    <!-- <div class="facts-img">
                         <img src="assets/img/facts-img.png" alt="" class="img-fluid">
-                    </div>
+                    </div> -->
                 </div>
             </section><!-- End Facts Section -->
             <!-- ======= Portfolio Section ======= -->
