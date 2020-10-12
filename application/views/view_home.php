@@ -220,7 +220,7 @@
                 <div class="container" data-aos="fade-up">
                     <header class="section-header">
                         <h3>Facts</h3>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                        <h4><p>Your effective technical solutions and partner in production and staff training</p></h4>
                     </header>
                     <div class="row counters">
                         <div class="col-lg-3 col-6 text-center">

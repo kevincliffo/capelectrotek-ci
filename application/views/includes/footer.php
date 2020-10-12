@@ -12,11 +12,12 @@
                         <div class="col-lg-3 col-md-6 footer-links">
                             <h4>Useful Links</h4>
                             <ul>
-                                <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
-                                <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-                                <li><i class="ion-ios-arrow-right"></i> <a href="#">Services</a></li>
-                                <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li>
-                                <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
+                                <li><i class="ion-ios-arrow-right"></i> <?php echo anchor('', 'Home');?></li>
+                                <li><i class="ion-ios-arrow-right"></i> <a href="#about">About us</a></li>
+                                <li><i class="ion-ios-arrow-right"></i> <a href="#services">Services</a></li>
+                                <li><i class="ion-ios-arrow-right"></i> <a href="#portfolio">Portfolio</a></li>
+                                <li><i class="ion-ios-arrow-right"></i> <a href="#team">Team</a></li>
+                                <li><i class="ion-ios-arrow-right"></i> <a href="#contact">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-6 footer-contact">
@@ -24,7 +25,7 @@
                             <p>
                                 P.O. BOX 8115 <br>
                                 Nairobi, 00200 Kenya <br>
-                                <strong>Phone:</strong> +1 5589 55488 55<br>
+                                <strong>Phone:</strong> +254 020 2188967<br>
                                 <strong>Email:</strong> info@capelectrotek.co.ke<br>
                                 training@capelectrotek.co.ke<br>
                                 technical@capelectrotek.co.ke<br>
