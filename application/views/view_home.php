@@ -123,7 +123,7 @@
                             <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
                                 <div class="about-col">
                                     <div class="img">
-                                        <img src="assets/img/vision-img.jpg" alt="" class="img-fluid">
+                                        <img src="assets/img/vision-img.png" alt="" class="img-fluid">
                                         <div class="icon"><i class="ion-ios-eye-outline"></i></div>
                                 </div>
                                 <h2 class="title"><a href="#">Our Vision</a></h2>
@@ -558,7 +558,7 @@
                             <div class="contact-phone">
                                 <i class="ion-ios-telephone-outline"></i>
                                 <h3>Phone Number</h3>
-                                <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+                                <p><a href="tel:+155895548855">+254 020 2188967</a></p>
                             </div>
                         </div>
                         <div class="col-md-4">
