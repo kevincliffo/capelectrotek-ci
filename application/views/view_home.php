@@ -16,7 +16,7 @@
                         <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/peter-2.jpeg)">
                             <div class="carousel-container">
                                 <div class="container">
-                                    <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
+                                    <h2 class="animate__animated animate__fadeInDown">For effective Technical Solutions</h2>
                                     <p class="animate__animated animate__fadeInUp">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
                                     <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
                                 </div>
@@ -25,7 +25,7 @@
                         <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/peter-3.jpeg)">
                             <div class="carousel-container">
                                 <div class="container">
-                                    <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
+                                    <h2 class="animate__animated animate__fadeInDown">A Provider and Partner in Production Stuff Training</h2>
                                     <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
                                     <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
                                 </div>
@@ -34,7 +34,7 @@
                         <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/peter-4.jpeg)">
                             <div class="carousel-container">
                                 <div class="container">
-                                    <h2 class="animate__animated animate__fadeInDown">Nam libero tempore</h2>
+                                    <h2 class="animate__animated animate__fadeInDown">Reliable Technical designs and Workmanship</h2>
                                     <p class="animate__animated animate__fadeInUp">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
                                     <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
                                 </div>
@@ -43,7 +43,7 @@
                         <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/peter-5.jpeg)">
                             <div class="carousel-container">
                                 <div class="container">
-                                    <h2 class="animate__animated animate__fadeInDown">Magnam aliquam quaerat</h2>
+                                    <h2 class="animate__animated animate__fadeInDown">For all your Engineering Solutions</h2>
                                     <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                                     <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
                                 </div>
@@ -68,17 +68,17 @@
                     <div class="row">
                         <div class="col-lg-4 box">
                             <i class="ion-ios-bookmarks-outline"></i>
-                            <h4 class="title"><a href="">Training</a></h4>
+                            <h4 class="title"><?php echo anchor('training', 'Training');?></h4>
                             <p class="description">We believe that Technical know-how of operations, maintenance and basic trouble shooting will help our clients stay on top. That is why our Technical training and Regular knowledge and sharing forums will help us and our clients to immensely get the best of our investments.</p>
                         </div>
                         <div class="col-lg-4 box box-bg">
                             <i class="ion-ios-stopwatch-outline"></i>
-                            <h4 class="title"><a href="">Technical</a></h4>
+                            <h4 class="title"><?php echo anchor('technical', 'Technical');?></h4>
                             <p class="description">We Offer training in various technical courses to both individuals and institutions. Our areas of specialization include: PLC and Auto CAD. For effective output performance. Our clients emphasize on practical applications of the skills acquired. This are given for time to practice on various training kits available and in our procession to further sharpen them.</p>
                         </div>
                         <div class="col-lg-4 box">
                             <i class="ion-ios-heart-outline"></i>
-                            <h4 class="title"><a href="">Consulting</a></h4>
+                            <h4 class="title"><?php echo anchor('consulting', 'Consulting');?></h4>
                             <p class="description">Deliver unique Capacity Building Consultancy and Advisory Services hence supporting a more efficient technical operational environment.</p>
                         </div>
                     </div>

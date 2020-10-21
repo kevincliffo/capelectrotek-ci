@@ -3,13 +3,13 @@
             <div class="footer-top">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-3 col-md-6 footer-info">
+                        <div class="col-lg-4 col-md-6 footer-info">
                             <?php echo anchor('', img(array('src'=>"assets/img/logo.png",'alt'=>"logo",'class'=>"img-fluid")), array('class'=>"logo mr-auto"));?>
                             <p>
                                 Cap-electrotek Solutions Ltd was founded in 2009 and incorporated in 2015. It is able to deliver design, Installation, Training and Commissioning of Electrical and Electrical systems for Process control, Home systems, Fueling systems and ICT systems.
                             </p>
                         </div>
-                        <div class="col-lg-3 col-md-6 footer-links">
+                        <div class="col-lg-4 col-md-6 footer-links">
                             <h4>Useful Links</h4>
                             <ul>
                                 <li><i class="ion-ios-arrow-right"></i> <?php echo anchor('', 'Home');?></li>
@@ -20,7 +20,7 @@
                                 <li><i class="ion-ios-arrow-right"></i> <a href="#contact">Contact</a></li>
                             </ul>
                         </div>
-                        <div class="col-lg-3 col-md-6 footer-contact">
+                        <div class="col-lg-4 col-md-6 footer-contact">
                             <h4>Contact Us</h4>
                             <p>
                                 P.O. BOX 8115 <br>
@@ -39,13 +39,13 @@
                                 <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 footer-newsletter">
+                        <!-- <div class="col-lg-3 col-md-6 footer-newsletter">
                             <h4>Our Newsletter</h4>
                             <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
                             <form action="" method="post">
                                 <input type="email" name="email"><input type="submit" value="Subscribe">
                             </form>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
