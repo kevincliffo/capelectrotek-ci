@@ -8,7 +8,7 @@
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
-                                    <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                    <p class="animate__animated animate__fadeInUp">With the aid of our trained personel, we offer the most proffessional services in town.</p>
                                     <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
                                 </div>
                             </div>
@@ -17,7 +17,7 @@
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">For effective Technical Solutions</h2>
-                                    <p class="animate__animated animate__fadeInUp">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
+                                    <p class="animate__animated animate__fadeInUp">For effective technical solutions, there is no need to search any further.</p>
                                     <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
                                 </div>
                             </div>
@@ -26,7 +26,7 @@
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">A Provider and Partner in Production Stuff Training</h2>
-                                    <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
+                                    <p class="animate__animated animate__fadeInUp">We offer the best training services for equipment and other utilities.</p>
                                     <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
                                 </div>
                             </div>
@@ -35,7 +35,7 @@
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">Reliable Technical designs and Workmanship</h2>
-                                    <p class="animate__animated animate__fadeInUp">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
+                                    <p class="animate__animated animate__fadeInUp">We are just a phone call away in case of any enquiry or service.</p>
                                     <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">For all your Engineering Solutions</h2>
-                                    <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                    <p class="animate__animated animate__fadeInUp">All your engineering solutions under one roof.</p>
                                     <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
                                 </div>
                             </div>
@@ -189,29 +189,31 @@
                 <div class="container" data-aos="fade-up">
                     <header class="section-header">
                         <h3>Our Skills</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
+                        <p>We understand the need of expert and competent support which is critical to our products, applications and equipment. We are dedicated to providing 
+                            round the clock support system through our excellent support service team, who are well qualified and trained and always at your back and call.
+                        </p>
                     </header>
                     <div class="skills-content">
                         <div class="progress">
                             <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-                            <span class="skill">HTML <i class="val">100%</i></span>
+                            <span class="skill">CES Training <i class="val">100%</i></span>
                         </div>
                     </div>
                     <div class="progress">
                         <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-                            <span class="skill">CSS <i class="val">90%</i></span>
+                            <span class="skill">CES Consulting <i class="val">90%</i></span>
                         </div>
                     </div>
                     <div class="progress">
                         <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                            <span class="skill">JavaScript <i class="val">75%</i></span>
+                            <span class="skill">CES Technical <i class="val">75%</i></span>
                         </div>
                     </div>
-                    <div class="progress">
+                    <!-- <div class="progress">
                         <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
                             <span class="skill">Photoshop <i class="val">55%</i></span>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             </section><!-- End Skills Section -->
@@ -265,8 +267,8 @@
                         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                             <div class="portfolio-wrap">
                                 <figure>
-                                    <img src="assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-                                    <a href="assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+                                    <img src="assets/img/portfolio/Tokeim-Dispenser.jpg" class="img-fluid" alt="">
+                                    <a href="assets/img/portfolio/Tokeim-Dispenser.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
                                     <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                                 </figure>
                                 <div class="portfolio-info">
